@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+python-docx
+PyMuPDF
+pypdf
+httpx
+requests
+google-genai
+google-api-python-client
+google-auth
+latex2mathml
+lxml
