@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+python-docx
+latex2mathml
+lxml
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
